@@ -1,0 +1,20 @@
+﻿# Android/Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Android Studio
+/.idea/
+/*.iml
+
+# Ignore large binaries & artifacts
+*.apk
+*.aar
+*.so
+*.tflite
+*.task
+*.jar
+
+# Temp
+*.log
