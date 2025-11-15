@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "rs.smobile.catsvsdogs.app-mergeDebugResources-66:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.11.1\\transforms\\cbea844a7d2c0d3771cd652a7804394d\\transformed\\work-runtime-2.10.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

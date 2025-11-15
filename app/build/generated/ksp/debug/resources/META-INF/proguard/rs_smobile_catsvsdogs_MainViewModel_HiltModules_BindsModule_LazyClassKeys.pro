@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class rs.smobile.catsvsdogs.MainViewModel
